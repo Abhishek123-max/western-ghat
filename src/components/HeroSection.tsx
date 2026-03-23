@@ -112,7 +112,7 @@ export default function HeroSection() {
         </div>
 
         <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-4 tracking-tight">
-          Find Your PerfectTTTTTTTTTTTTTTTTTTTT
+          Find Your PerfectTTTTTTTTTTTTT55555555555 hshs
           <span className="block mt-1" style={{ color: '#c9a84c', textShadow: '0 0 60px rgba(201,168,76,0.4)' }}>
             Dream Property
           </span>
